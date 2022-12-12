@@ -10,7 +10,7 @@ Software Engineer
 
 ⦾ 💞️ I’m looking to collaborate on interesting projects
 
-⦾ 📫 How to reach me karthik.p.rashinkar@gmail.com
+⦾ 📫 you can reach me by droping a mail karthik.p.rashinkar@gmail.com
 
 
 <!---
