@@ -6,7 +6,7 @@ Software Engineer
 
 ⦾ 👀 I’m interested in Web Development and Mobile Development
 
-⦾ 🌱 I’m currently learning Javascript
+⦾ 🌱 I’m currently learning React.
 
 ⦾ 💞️ I’m looking to collaborate on interesting projects
 
