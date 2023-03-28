@@ -8,9 +8,9 @@ Software Engineer
 
 ⦾ 🌱 I’m currently learning React.
 
-⦾ 💞️ I’m looking to collaborate on interesting projects
+⦾ 💞️ I’m looking to collaborate on web development projects
 
-⦾ 📫 you can reach me by droping a mail karthik.p.rashinkar@gmail.com
+⦾ 📫 you can reach me by droping a mail at karthik.p.rashinkar@gmail.com
 
 
 <!---
