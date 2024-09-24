@@ -10,7 +10,7 @@ Software Engineer
 
 ⦾ 💞️ I’m looking to collaborate on iOS or web development projects
 
-⦾ 📫 you can reach me by droping a mail at rashinkarkarthik@gmail.com
+⦾ 📫 you can reach me by droping a mail at karthik.p.rashinkar@gmail.com
 
 
 <!---
