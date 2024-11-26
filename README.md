@@ -4,11 +4,11 @@ Software Engineer
 
 ⦾ 🌍  I'm based in India
 
-⦾ 👀 I’m interested in iOS and web Development.
+⦾ 👀 I’m interested in iOS.
 
-⦾ 🌱 I’m currently learning SwiftUI, React, Typescript.
+⦾ 🌱 I’m currently learning SwiftUI.
 
-⦾ 💞️ I’m looking to collaborate on iOS or web development projects
+⦾ 💞️ I’m looking to collaborate on iOS.
 
 ⦾ 📫 you can reach me by droping a mail at karthik.p.rashinkar@gmail.com
 
