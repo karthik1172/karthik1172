@@ -6,8 +6,6 @@ Software Engineer
 
 ⦾ 👀 I’m interested in iOS.
 
-⦾ 🌱 I’m currently learning SwiftUI.
-
 ⦾ 💞️ I’m looking to collaborate on iOS.
 
 ⦾ 📫 you can reach me by droping a mail at karthik.p.rashinkar@gmail.com
